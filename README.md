@@ -6,7 +6,7 @@ Data Science Consultant and AI/ML practitioner
 
 Data science leader with a strong engineering background and a passion for driving data-centric transformation. With over 10 years of experience in data analytics and AI, I have delivered scalable data solutions that enable impactful business decisions and sustainable growth. Helping C-level executives take data-driven decisions. Orchestrated the successful deployment of ETL pipelines, customer propensity scoring models, and advanced data analysis using machine learning algorithms. A certified Google Digital Guru, proficient in a broad spectrum of analytical tools and platforms, including Salesforce, Oracle, and Azure.
 
-* 🌍  I'm based in Dubai, United Arab Emirates
+* 🌍  I'm based in Dubai, United Arab Emirates or Hyderabad, India
 * ✉️  You can contact me at [raghavhvr@outlook.com](mailto:raghavhvr@outlook.com)
 * 🤝  I'm open to collaborating on Data Science, Machine Learning, AI modelling
 * ⚡  I'm BatMan!
